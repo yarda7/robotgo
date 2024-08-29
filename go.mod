@@ -34,7 +34,7 @@ require (
 )
 
 require (
-	github.com/go-vgo/robotgo v0.110.2
+        github.com/yarda7/robotgo v0.110.4
 	github.com/otiai10/gosseract v2.2.1+incompatible
 )
 
